@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld!</string>
+    <string name="hello_birthday_to_shankari">Hello Birthday to Shankari</string>
+    <string name="title">My Dice Roller</string>
+</resources>
